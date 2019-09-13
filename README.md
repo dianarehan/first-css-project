@@ -1,2 +1,2 @@
-# first-css-project
+# css animal trading cards
 this project is for udacity
